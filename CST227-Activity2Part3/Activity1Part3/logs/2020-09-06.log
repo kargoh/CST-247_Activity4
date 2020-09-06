@@ -1,0 +1,5 @@
+2020-09-06 11:10:55.5304 INFO Entering the login controller using login ActionResult.
+2020-09-06 11:11:25.1638 ERROR Exception! A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2020-09-06 11:34:07.4561 INFO Entering the login controller using login ActionResult.
+2020-09-06 11:34:10.3895 INFO Entering the login controller using login ActionResult.
+2020-09-06 11:34:39.9668 ERROR Exception! A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)

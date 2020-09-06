@@ -1,0 +1,7 @@
+C:\Users\deben\Desktop\Workspace\CST-247\CST227-Activity2Part3\HelloWorldService\bin\HelloWorldService.dll.config
+C:\Users\deben\Desktop\Workspace\CST-247\CST227-Activity2Part3\HelloWorldService\bin\HelloWorldService.dll
+C:\Users\deben\Desktop\Workspace\CST-247\CST227-Activity2Part3\HelloWorldService\bin\HelloWorldService.pdb
+C:\Users\deben\Desktop\Workspace\CST-247\CST227-Activity2Part3\HelloWorldService\obj\Debug\HelloWorldService.csprojAssemblyReference.cache
+C:\Users\deben\Desktop\Workspace\CST-247\CST227-Activity2Part3\HelloWorldService\obj\Debug\HelloWorldService.csproj.CoreCompileInputs.cache
+C:\Users\deben\Desktop\Workspace\CST-247\CST227-Activity2Part3\HelloWorldService\obj\Debug\HelloWorldService.dll
+C:\Users\deben\Desktop\Workspace\CST-247\CST227-Activity2Part3\HelloWorldService\obj\Debug\HelloWorldService.pdb
